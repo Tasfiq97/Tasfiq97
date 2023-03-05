@@ -4,11 +4,15 @@
 
 Very much specialized in react and other similar technologies  with strong analytical skills and  desires to work as a Web Developer. Have the ability to provide high quality solution for development of projects. Loves to learn new technologies and very much passionate about learning. Also adept with multiple project development methodologies.
 
-Skills: REACT / JS /ES6/ HTML / CSS / NODE / TYPESCRIPT / NEXTJS / MONGODB / REDUX / FIREBASE / JAVA / GIT / GITHUB / OOP / PROBLEM SOLVING /  
+##### Skills: 
 
-- 🔭 I’m currently working on Building Mern stack web apps 
-- 🌱 I’m currently learning Differernt methodologies 
-- 👯 I’m looking to collaborate on Gihub 
+ ✔️ REACT / JS /ES6 
+ ✔️ HTML / CSS 
+ ✔️ NODE /MONGODB  
+ ✔️ NEXTJS / TYPESCRIPT 
+ ✔️ REDUX / FIREBASE 
+ ✔️ JAVA /  OOP / PROBLEM SOLVING 
+ ✔️ GIT / GITHUB /
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tasfiq97)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/tasfiqul-azad//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/tasfiqul.azad/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/15633665/tasfiqul-azad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://new-portfolio-next-tasfiq97.vercel.app/)  
