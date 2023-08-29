@@ -20,8 +20,6 @@ Very much specialized in react and other similar technologies  with strong analy
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tasfiq97)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tasfiq97&show_icons=true&count_private=true)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Tasfiq97)  
 
 ![Profile views](https://gpvc.arturio.dev/Tasfiq97)  
